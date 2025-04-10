@@ -1,0 +1,69 @@
+.gloock-regular {
+    font-family: "Gloock", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+body{
+    font-family: sans-serif; overflow-x: hidden;
+}
+
+a{
+    text-decoration: none; color: inherit;
+}
+
+#side a:hover{
+    color: yellow;
+}
+  
+#side{
+    position: absolute; left: 0%; top: -1%; height: 101%; width: 30%; background-color: black; z-index: 0;
+}
+
+#logo{
+    position: absolute; left: 0%; top: 2%; width: 9%; left: 10%;
+}
+
+#text_logo{
+    position: absolute; top: 18%; left: 7%; font-family: "Gloock", serif; font-size: 225%; font-weight: bold; color: white;
+}
+
+nav{
+    position: absolute; left: 7%; top: 28%; color: white; font-size: 135%;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    margin-bottom: 1%;
+}
+
+.active{
+    color: yellow;
+}
+
+#page_title{
+    position: absolute; top: 3%; left: 57%; font-size: 280%; font-weight: bold;
+}
+
+#line{
+    position: absolute; top: 15%; left: 35%; font-size: 130%; text-align: left; width: 60%;
+}
+
+#names{
+    position: absolute; top: 18%; left: 35%; font-size: 120%; text-align: left; width: 60%;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+#names a{
+    color: blue; text-decoration: underline;
+}
+
+#names li{
+    padding-top: 1%;
+}

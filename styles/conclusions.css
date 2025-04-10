@@ -1,0 +1,119 @@
+body{
+    font-family: sans-serif; color: black; overflow-x: hidden;
+}
+
+a{
+    text-decoration: none; color: inherit;
+}
+
+#title{
+    position: absolute; left: 23%; top: 3%; font-size: 280%; font-weight: bold;
+}
+
+.pic{
+    position: absolute; left: 3%; width: 50%; height: 80%; text-align: center; font-size: 80%;
+}
+
+img{
+    position: relative; left: 0%; top: 0%; width: 100%; height: 80%; border: 3px solid black; margin-bottom: 1%;
+}
+
+#pic_one{
+    top: 20%;
+}
+
+h1{
+    text-align: center; transform: translateX(-5%);
+}
+
+.text {
+    position: absolute; width: 35%; left: 60%; font-size: 120%;
+}
+
+sup{
+    font-size: 50%;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+#text_one{
+    top:15%; 
+}
+
+#pic_two{
+    top: 100%;
+}
+
+#text_two{
+    top:95%; 
+}
+
+#pic_three{
+    top: 190%;
+}
+
+#text_three{
+    top:185%; 
+}
+
+#pic_four{
+    top: 280%;
+}
+
+#text_four{
+    top:275%; 
+}
+
+#ref{
+    position: absolute; top: 365%; left: 5%; width: 90%; text-align: left; font-size: 120%;
+}
+
+#ref a{
+    text-decoration: underline;
+}
+
+#one{
+    position: absolute; top: 490%; left: 5%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
+}
+
+#one:hover{
+    background-color: black; color: white;
+}
+
+#two{
+    position: absolute; top: 490%; left: 25%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
+}
+
+#two:hover{
+    background-color: black; color: white;
+}
+
+#three{
+    position: absolute; top: 490%; left: 45%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
+}
+
+#three:hover{
+    background-color: black; color: white;
+}
+
+#four{
+    position: absolute; top: 490%; left: 65%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
+}
+
+#four:hover{
+    background-color: black; color: white;
+}
+
+#five{
+    position: absolute; top: 490%; left: 85%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
+}
+
+#five:hover{
+    background-color: black; color: white;
+}
+
+#bottom{
+    position: absolute; top: 500%; height: 3%; visibility: hidden;
+}
