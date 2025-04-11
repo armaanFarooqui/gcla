@@ -19,7 +19,15 @@ img{
 }
 
 #pic_one{
-    top: 20%;
+    top: 26.5%; width: 45%; height: auto; height: 70%;
+}
+
+#stereo{
+    top:26%; left: 50%; width: 45%; height: auto;
+}
+
+#source{
+    position: absolute; top:13%; left: 28%; font-size: 120%;
 }
 
 h1{
@@ -99,7 +107,11 @@ sup{
 }
 
 #pic_nine{
-    top: 730%;
+    top: 730%;  left: 5%; width: 40%; height: auto; z-index: 1;
+}
+
+#kg{
+    position: absolute; top: 774%; z-index: 2; left: 25.6%; font-size: 200%; font-weight: bold;
 }
 
 #text_nine{
