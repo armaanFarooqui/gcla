@@ -20,12 +20,23 @@ a{
     position: absolute; left: 0%; top: -1%; height: 101%; width: 30%; background-color: black; z-index: 0;
 }
 
+/*
+
 #logo{
     position: absolute; left: 0%; top: 2%; width: 9%; left: 10%;
 }
 
 #text_logo{
     position: absolute; top: 18%; left: 7%; font-family: "Gloock", serif; font-size: 225%; font-weight: bold; color: white;
+}
+*/
+
+#logo{
+    position: absolute; left: 0%; top: 3%; width: 10%; left: 9%;
+}
+
+#text_logo{
+    position: absolute; top: 22%; left: 3%; font-family: "Gloock", serif; font-size: 220%; font-weight: bold; color: white;
 }
 
 nav{

@@ -42,6 +42,10 @@ sup{
     top:18%; 
 }
 
+#text_one a{
+    color: blue; text-decoration: underline;
+}
+
 #pic_two{
     top: 100%;
 }
@@ -75,7 +79,7 @@ sup{
 }
 
 #ref{
-    position: absolute; top: 455%; left: 5%; width: 90%; text-align: left; font-size: 120%;
+    position: absolute; top: 275%; left: 5%; width: 90%; text-align: left; font-size: 120%;
 }
 
 #ref a{
@@ -83,7 +87,7 @@ sup{
 }
 
 #one{
-    position: absolute; top: 275%; left: 5%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
+    position: absolute; top: 305%; left: 5%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
 }
 
 #one:hover{
@@ -91,7 +95,7 @@ sup{
 }
 
 #two{
-    position: absolute; top: 275%; left: 25%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
+    position: absolute; top: 305%; left: 25%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
 }
 
 #two:hover{
@@ -99,7 +103,7 @@ sup{
 }
 
 #three{
-    position: absolute; top: 275%; left: 45%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
+    position: absolute; top: 305%; left: 45%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
 }
 
 #three:hover{
@@ -107,7 +111,7 @@ sup{
 }
 
 #four{
-    position: absolute; top: 275%; left: 65%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
+    position: absolute; top: 305%; left: 65%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
 }
 
 #four:hover{
@@ -115,7 +119,7 @@ sup{
 }
 
 #five{
-    position: absolute; top: 275%; left: 85%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
+    position: absolute; top: 305%; left: 85%; width: 10%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
 }
 
 #five:hover{
@@ -123,5 +127,5 @@ sup{
 }
 
 #bottom{
-    position: absolute; top: 285%; height: 3%; visibility: hidden;
+    position: absolute; top: 315%; height: 3%; visibility: hidden;
 }
