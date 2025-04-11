@@ -78,3 +78,11 @@ nav ul li{
 #names li{
     padding-top: 1%;
 }
+
+#one{
+    position: absolute; top: 48%; left: 55%; width: 20%;  height: 7%; font-size: 120%; font-weight: bold; text-align: center;  display: flex; justify-content: center; align-items: center; border: 5px solid black;
+}
+
+#one:hover{
+    background-color: black; color: white;
+}
