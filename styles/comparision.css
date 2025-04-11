@@ -99,7 +99,7 @@ sup{
 }
 
 #pic_eight{
-    top: 630%; left: 10%; width: 30%; height: auto;
+    top: 630%; left: 5%; width: 40%; height: auto; z-index: 1;
 }
 
 #text_eight{
@@ -107,11 +107,15 @@ sup{
 }
 
 #pic_nine{
-    top: 730%;  left: 5%; width: 40%; height: auto; z-index: 1;
+    top: 725%; left: 10%; width: 30%; height: auto;
 }
 
 #kg{
-    position: absolute; top: 774%; z-index: 2; left: 25.6%; font-size: 200%; font-weight: bold;
+    position: absolute; top: 674%; z-index: 2; left: 25.6%; font-size: 200%; font-weight: bold;
+}
+
+#mult{
+    position: absolute; top: 654%; z-index: 2; left: 30.7%; font-size: 180%; font-weight: 600;
 }
 
 #text_nine{
